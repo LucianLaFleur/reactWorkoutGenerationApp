@@ -18,7 +18,7 @@ analyze the header from another project and try to import in that nav-bar.
 
 3) Reverse-chronological journal
 =================================
-/n
+
 7 july 2024 : simple commit to github. Copied "navbar butcher" code from an unused project. Needs to be tested locally.
-/n
+
 6 July 2024 : basic mockup made over last 2 days.
