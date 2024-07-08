@@ -1,0 +1,20 @@
+.countdown-timer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  .buttons button {
+    margin: 0 5px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .buttons button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }

@@ -1,0 +1,48 @@
+.suggestions-list {
+    font-family: "Times New Roman";
+  }
+  
+  .header-div {
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .header-div button {
+    margin-left: 10px;
+    margin-top: 4px;
+    border:2px solid #562ee8;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  ul li .x-button {
+    background-color: #515151;
+    color: red;
+    font-weight: 400;
+    font-family: "Times New Roman";
+    padding: 5px;
+    margin-left: 10px;
+  }
+  
+  ul li .suggestion {
+    width: 120px;
+    text-align: center;
+    font-family: "Times New Roman";
+    margin-left: 15px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-right: 10px;
+  }
+  
